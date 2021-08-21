@@ -1,8 +1,8 @@
-﻿using Autodesk.AutoCAD.DatabaseServices;
+﻿using System;
+using Autodesk.AutoCAD.DatabaseServices;
 using Autodesk.AutoCAD.Geometry;
-using System;
 
-namespace _02_EntityCreate
+namespace AutoCADDotNetTools
 {
     public static class AddEntityTools
     {

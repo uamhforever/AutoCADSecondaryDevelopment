@@ -4,11 +4,11 @@ using System.Runtime.InteropServices;
 // 有关程序集的一般信息由以下
 // 控制。更改这些特性值可修改
 // 与程序集关联的信息。
-[assembly: AssemblyTitle("_02_EntityCreate")]
+[assembly: AssemblyTitle("_03_EntityEdit")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("_02_EntityCreate")]
+[assembly: AssemblyProduct("_03_EntityEdit")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -19,7 +19,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // 如果此项目向 COM 公开，则下列 GUID 用于类型库的 ID
-[assembly: Guid("a8a57455-4867-4c0b-9de8-479d17182442")]
+[assembly: Guid("6dcd252c-7fe8-4cf7-86d9-eb2bf979217b")]
 
 // 程序集的版本信息由下列四个值组成: 
 //

@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_02_EntityCreate", "_02_Ent
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoCADDotNetTools", "AutoCADDotNetTools\AutoCADDotNetTools.csproj", "{98AD7E2D-20E8-42F4-974A-521A7AB220E2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_03_EntityEdit", "_03_EntityEdit\_03_EntityEdit.csproj", "{6DCD252C-7FE8-4CF7-86D9-EB2BF979217B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{98AD7E2D-20E8-42F4-974A-521A7AB220E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98AD7E2D-20E8-42F4-974A-521A7AB220E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98AD7E2D-20E8-42F4-974A-521A7AB220E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DCD252C-7FE8-4CF7-86D9-EB2BF979217B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DCD252C-7FE8-4CF7-86D9-EB2BF979217B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DCD252C-7FE8-4CF7-86D9-EB2BF979217B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DCD252C-7FE8-4CF7-86D9-EB2BF979217B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

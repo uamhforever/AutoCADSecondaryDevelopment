@@ -1,9 +1,8 @@
-﻿using Autodesk.AutoCAD.Colors;
+﻿using System.Collections.Generic;
+using Autodesk.AutoCAD.Colors;
 using Autodesk.AutoCAD.DatabaseServices;
-using System;
-using System.Collections.Generic;
 
-namespace _02_EntityCreate
+namespace AutoCADDotNetTools
 {
     public static class HatchTools
     {

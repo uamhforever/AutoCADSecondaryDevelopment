@@ -1,11 +1,7 @@
-﻿using Autodesk.AutoCAD.Geometry;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System;
+using Autodesk.AutoCAD.Geometry;
 
-namespace _02_EntityCreate
+namespace AutoCADDotNetTools
 {
     public static class BaseTools
     {
