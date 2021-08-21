@@ -29,7 +29,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_11_块操作", "_11_块操
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_13_表格操作", "_13_表格操作\_13_表格操作.csproj", "{1AB83172-64E8-4271-80A6-345300EEAEFC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_交互界面实例一", "..\..\3_Download\CADExampleDemo-master\CADExampleDemo-master\07_交互界面实例一\07_交互界面实例一\07_交互界面实例一.csproj", "{CC745AC9-8C0C-4891-9F17-5630BC443780}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_交互界面实例一", "07_交互界面实例一\07_交互界面实例一.csproj", "{CC745AC9-8C0C-4891-9F17-5630BC443780}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
