@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_03_EntityEdit", "_03_Entit
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_04_用户交互", "_04_用户交互\_04_用户交互.csproj", "{3B5D553C-5850-45DA-9CAB-A96DB0373134}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_05_选择集", "_05_选择集\_05_选择集.csproj", "{61A582A6-994D-4BF6-899E-D4C5437F6872}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{3B5D553C-5850-45DA-9CAB-A96DB0373134}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B5D553C-5850-45DA-9CAB-A96DB0373134}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B5D553C-5850-45DA-9CAB-A96DB0373134}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61A582A6-994D-4BF6-899E-D4C5437F6872}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61A582A6-994D-4BF6-899E-D4C5437F6872}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61A582A6-994D-4BF6-899E-D4C5437F6872}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61A582A6-994D-4BF6-899E-D4C5437F6872}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
