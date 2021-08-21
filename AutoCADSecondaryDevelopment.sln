@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_07_采样标注", "_07_采
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_08_图层操作", "_08_图层操作\_08_图层操作.csproj", "{5FF7D453-BA97-4F42-B4EB-821C310DEAAC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_09_Ribbon界面WPF", "_09_Ribbon界面WPF\_09_Ribbon界面WPF.csproj", "{E0AD37CB-A85C-4201-BA05-34658ABFFAB5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{5FF7D453-BA97-4F42-B4EB-821C310DEAAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5FF7D453-BA97-4F42-B4EB-821C310DEAAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5FF7D453-BA97-4F42-B4EB-821C310DEAAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0AD37CB-A85C-4201-BA05-34658ABFFAB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0AD37CB-A85C-4201-BA05-34658ABFFAB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0AD37CB-A85C-4201-BA05-34658ABFFAB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0AD37CB-A85C-4201-BA05-34658ABFFAB5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

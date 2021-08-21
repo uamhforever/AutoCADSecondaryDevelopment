@@ -1,9 +1,8 @@
-﻿using Autodesk.AutoCAD.DatabaseServices;
+﻿using System.Collections.Generic;
+using Autodesk.AutoCAD.DatabaseServices;
 using Autodesk.AutoCAD.Geometry;
-using System.Collections.Generic;
-using AutoCADDotNetTools;
 
-namespace _03_EntityEdit
+namespace AutoCADDotNetTools
 {
     public static partial class EditEntityTools
     {

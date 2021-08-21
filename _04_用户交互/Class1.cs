@@ -7,7 +7,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using _03_EntityEdit;
 using AutoCADDotNetTools;
 using Autodesk.AutoCAD.DatabaseServices;
 
